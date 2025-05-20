@@ -4,10 +4,9 @@ here i put my machine learning and deep learning training code. just for fun! im
 
 Machine Learning for Data Analysis
 
-This repository contains a Jupyter Notebook demonstrating the application of machine learning to a neuroscience dataset, developed as part of my master’s research in cognitive neuroscience.
 
 ## Purpose
-The notebook implements a machine learning model to analyze a سهئحمث datases. It showcases my skills in data preprocessing, model training, and visualization, aligned with my research goals.
+The notebook implements a machine learning model to analyze a datases. It showcases my skills in data preprocessing, model training, and visualization, aligned with my research goals.
 
 ## Tools
 - Python 3.8+
