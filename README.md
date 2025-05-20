@@ -1,4 +1,4 @@
-# introduction to python and machine_learnig
+# introduction to python and machine_learnig/ deep learning
 
 here i put my python learning notebook and machine learning code. 
 
